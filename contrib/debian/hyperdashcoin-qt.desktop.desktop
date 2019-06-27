@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HyperdashCoin
+Comment=HyperdashCoin P2P Cryptocurrency
+Exec=hyperdashcoin-qt %u
+Terminal=false
+Type=Application
+Icon=hyperdashcoin128
+MimeType=x-scheme-handler/hyperdashcoin;
+Categories=Office;Finance;
+Name[en_US]=hyperdashcoin-qt.desktop

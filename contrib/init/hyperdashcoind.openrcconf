@@ -1,0 +1,26 @@
+# /etc/conf.d/hyperdashcoind: config file for /etc/init.d/hyperdashcoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/hyperdashcoin/hyperdashcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/hyperdashcoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/hyperdashcoind.pid"
+
+# Where to write hyperdashcoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/hyperdashcoind"
+
+# User and group to own hyperdashcoind process
+#BITCOIND_USER="hyperdashcoin"
+#BITCOIND_GROUP="hyperdashcoin"
+
+# Path to hyperdashcoind executable
+#BITCOIND_BIN="/usr/bin/hyperdashcoind"
+
+# Nice value to run hyperdashcoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

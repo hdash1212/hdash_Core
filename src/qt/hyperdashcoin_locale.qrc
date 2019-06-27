@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/hyperdashcoin_bg.qm</file>
+        <file alias="ca">locale/hyperdashcoin_ca.qm</file>
+        <file alias="cs">locale/hyperdashcoin_cs.qm</file>
+        <file alias="da">locale/hyperdashcoin_da.qm</file>
+        <file alias="de">locale/hyperdashcoin_de.qm</file>
+        <file alias="en">locale/hyperdashcoin_en.qm</file>
+        <file alias="en_US">locale/hyperdashcoin_en_US.qm</file>
+        <file alias="es">locale/hyperdashcoin_es.qm</file>
+        <file alias="fi">locale/hyperdashcoin_fi.qm</file>
+        <file alias="fr_FR">locale/hyperdashcoin_fr_FR.qm</file>
+        <file alias="it">locale/hyperdashcoin_it.qm</file>
+        <file alias="ja">locale/hyperdashcoin_ja.qm</file>
+        <file alias="ko_KR">locale/hyperdashcoin_ko_KR.qm</file>
+        <file alias="nl">locale/hyperdashcoin_nl.qm</file>
+        <file alias="pl">locale/hyperdashcoin_pl.qm</file>
+        <file alias="pt">locale/hyperdashcoin_pt.qm</file>
+        <file alias="pt_BR">locale/hyperdashcoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/hyperdashcoin_ro_RO.qm</file>
+        <file alias="ru">locale/hyperdashcoin_ru.qm</file>
+        <file alias="sk">locale/hyperdashcoin_sk.qm</file>
+        <file alias="sv">locale/hyperdashcoin_sv.qm</file>
+        <file alias="tr">locale/hyperdashcoin_tr.qm</file>
+        <file alias="uk">locale/hyperdashcoin_uk.qm</file>
+        <file alias="zh_CN">locale/hyperdashcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/hyperdashcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
